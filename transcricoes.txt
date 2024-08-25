@@ -1,0 +1,4 @@
+nome
+data
+clima
+encerrar
